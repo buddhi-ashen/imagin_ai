@@ -80,11 +80,10 @@ const CreatePost = () => {
 
   return (
     <section className='max-w-7xl mx-auto'>
-      <div>
-        <h1 className='font-extrabold text-[#222328] text-[32px]'>Create</h1>
-        <p className='mt-2 text-[#666e75] text-[14px] max-w-[500px]'>
-          Generate an imaginative image through DALL-E AI and share it with the
-          community
+      <div className='bg-cover bg-gradient-to-r from-cyan-500 to-blue-700 p-20'>
+        <h1 className='text-6xl text-center font-sans font-bold text-white pt-5 pb-12'>Create</h1>
+        <p className='text-center text-white'>
+        "Unleash your creativity and generate your own imaginative image through DALL-E AI. Share your unique creation with the community and see how it inspires others. Click now to start generating your own masterpiece with DALL-E AI."
         </p>
       </div>
 
