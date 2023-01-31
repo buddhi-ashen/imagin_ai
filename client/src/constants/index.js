@@ -60,6 +60,14 @@ export const surpriseMePrompts = [
   'crossing absolute horizon, black hole, interdimensional entity emerging from inside, photo realistic, 1920x1080, 16:9',
   'decidious trees in fall in dense fog and a fox with a bushy tail with stars shining as a witch rides across the moon',
   'deep space and astrounaut',
-
-
+  'portrait of a woman, light streaming on her face while she poses in the darkness, chiaroscuro, photography',
+  'portrait of a mermaid, sunlight streaming on her face while she poses in the darkness, chiaroscuro, photography',
+  'an astronaut with apple logo eating dinner, cinematic, restaurant, 300DPI, sunset, mountain, edward hopper style',
+  'ultra sharp award wining underwater nature photography of a woman riding a glistening gradient 🦄 sea horse, backlit, depth of field, ocean floor, lush vegetation, particles, solar rays, coral, golden fishes',
+  'portrait of gothic snow white, sunlight streaming on her face while she poses in the darkness, chiaroscuro, photography',
+  'portrait of snow white, sunlight streaming on her face while she poses in the darkness, chiaroscuro, photography',
+  'a large droideka robot firing lasers with a sphere shield around it, sand and clay buildings setting, epic sci-fi, cinematic lighting , action scene',
+  'baby astronaut with sad expression left alone on the moons surface, space, very small spaceship, footprints, perspective, hyper-realistic, ultra detailed, ultra sharp, hard contrast, 8K, 16mm lens'
+  'wide angle full body in frame photo of a gorgeous beautiful girl Amouranth blue short messy glowing ice crystal hair standing model pose ice wings wearing tight fitting blue ice crystal long formal gown with intricate glowing blue lace detail blue sheer thigh high white lace nylons octane render artstation',
+  'Busy street on machine planet, with machine creatures and THE GIANT robots, wide shot, detailed, intricate, hard focus, art by Myasoedov, Alphonse Mucha, Craig Mullins and Repin',
 ]
